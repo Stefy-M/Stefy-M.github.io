@@ -1,4 +1,4 @@
-## This webpage was templated then edited by me
+This webpage was templated then edited by me
 
 
 Read Only by HTML5 UP
